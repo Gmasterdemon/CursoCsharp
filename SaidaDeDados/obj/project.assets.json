@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharpNELIO\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\gleiz\\OneDrive\\Área de Trabalho\\testandogit\\CursoCsharp\\SaidaDeDados\\SaidaDeDados.csproj",
       "projectName": "SaidaDeDados",
-      "projectPath": "C:\\CSharpNELIO\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj",
+      "projectPath": "C:\\Users\\gleiz\\OneDrive\\Área de Trabalho\\testandogit\\CursoCsharp\\SaidaDeDados\\SaidaDeDados.csproj",
       "packagesPath": "C:\\Users\\gleiz\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharpNELIO\\SaidaDeDados\\SaidaDeDados\\obj\\",
+      "outputPath": "C:\\Users\\gleiz\\OneDrive\\Área de Trabalho\\testandogit\\CursoCsharp\\SaidaDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
